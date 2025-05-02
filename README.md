@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cequattro
 - 👀 I’m interested in php, java, cryptos and IA
-- 🌱 I’m currently learning typescript new frameworks
+- 🌱 I’m currently learning finance
 - 📫 Reach me through telegram @cequattro
 
 <!---
